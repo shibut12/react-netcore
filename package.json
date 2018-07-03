@@ -1,0 +1,28 @@
+{
+  "name": "react-netcore",
+  "version": "1.0.0",
+  "description": "A starter project for react web application with net core backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shibut12/react-netcore.git"
+  },
+  "keywords": [
+    "React",
+    "net",
+    "core"
+  ],
+  "author": "Shibu Thannikkunnath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shibut12/react-netcore/issues"
+  },
+  "homepage": "https://github.com/shibut12/react-netcore#readme",
+  "devDependencies": {
+    "webpack": "^4.14.0",
+    "webpack-cli": "^3.0.8"
+  }
+}

@@ -12,6 +12,9 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Always ignore package-lock
+package-lock.json
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
